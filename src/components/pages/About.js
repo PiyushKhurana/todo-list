@@ -4,8 +4,7 @@ import React from 'react'
   return (
     <React.Fragment>
      <h1> About </h1>
-     <p>This is the TodoList app v1.0.0.It is a part of app
-     React crash courses</p> 
+     <p>This is the Simple TodoList app.</p> 
     </React.Fragment>
   )
 }
